@@ -1,0 +1,31 @@
+/* navbar and its styling */
+.nav-item{
+    margin:0 15px;
+}
+
+
+
+
+
+
+
+
+
+
+/* for heading and its background */
+.header-banner{
+    
+    padding: 7% 20%;
+    background-image: url('../Images/stock-image.jfif');
+    color: #CAF0F8;
+}
+
+.header-banner h1{
+    font-size: 3.5rem;
+    text-align: center;
+    line-height: 2;
+}
+.header-banner h3{
+    font-size: 2rem;
+    text-align: center;
+}
